@@ -135,6 +135,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="_2_1_First.cpp" />
+    <ClCompile Include="_2_3_Transformationcpp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="_2_1_First.rc" />

@@ -32,6 +32,9 @@
     <ClCompile Include="_2_1_First.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_2_3_Transformationcpp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="_2_1_First.rc">
