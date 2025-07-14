@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:1:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_2_1_First.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:1:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_2_1_First.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_2_1_First.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:2:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_2_1_First.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_2_1_First.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_2_1_First.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_2_1_First.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_2_1_First.cpp",
+              "RelativeToolTip": "_2_1_First\\_2_1_First.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T05:18:18.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_2_1_First.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_2_1_First.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_2_1_First.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_2_1_First.cpp",
+              "RelativeToolTip": "_2_1_First\\_2_1_First.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T04:02:51.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
