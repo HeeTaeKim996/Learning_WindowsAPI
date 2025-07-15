@@ -131,7 +131,6 @@
     <ClInclude Include="framework.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="targetver.h" />
-    <ClInclude Include="_2_1_First.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="_2_1_First.cpp" />
@@ -139,7 +138,11 @@
     <ClCompile Include="_3_1_TextOut.cpp" />
     <ClCompile Include="_3_2_TextOut_strlen_wsprintf_DrawText.cpp" />
     <ClCompile Include="_3_3_2_MessageBox.cpp" />
-    <ClCompile Include="_3_3_DrawLines.cpp" />
+    <ClCompile Include="_3_3_1_DrawLines.cpp" />
+    <ClCompile Include="_4_1_1_WM_CHAR.cpp" />
+    <ClCompile Include="_4_1_2_WM_KEYDOWN.cpp" />
+    <ClCompile Include="_4_2_Mouse.cpp" />
+    <ClCompile Include="_4_3_Timer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="_2_1_First.rc" />

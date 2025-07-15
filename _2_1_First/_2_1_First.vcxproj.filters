@@ -24,9 +24,6 @@
     <ClInclude Include="Resource.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="_2_1_First.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="_2_1_First.cpp">
@@ -41,10 +38,22 @@
     <ClCompile Include="_3_2_TextOut_strlen_wsprintf_DrawText.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_3_3_DrawLines.cpp">
+    <ClCompile Include="_3_3_1_DrawLines.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="_3_3_2_MessageBox.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_1_1_WM_CHAR.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_1_2_WM_KEYDOWN.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_2_Mouse.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_3_Timer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
