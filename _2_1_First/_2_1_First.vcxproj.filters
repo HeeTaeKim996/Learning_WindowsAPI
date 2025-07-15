@@ -53,7 +53,13 @@
     <ClCompile Include="_4_2_Mouse.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_4_3_Timer.cpp">
+    <ClCompile Include="_4_3_1_Timer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_3_2_TwoTimer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_3_3_RandGrp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
