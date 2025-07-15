@@ -1,4 +1,4 @@
-#if 1 // WinMain
+#if 0 // Total
 
 /*--------------------------------------------
     마우스 좌클릭시, 지정된 텍스트를 출력하는
@@ -160,4 +160,4 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 
 #endif // 코드만
 
-#endif // WinMain
+#endif // Total

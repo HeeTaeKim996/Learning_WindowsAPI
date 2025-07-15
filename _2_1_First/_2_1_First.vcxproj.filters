@@ -38,6 +38,15 @@
     <ClCompile Include="_3_1_TextOut.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_3_2_TextOut_strlen_wsprintf_DrawText.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_3_3_DrawLines.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_3_3_2_MessageBox.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="_2_1_First.rc">

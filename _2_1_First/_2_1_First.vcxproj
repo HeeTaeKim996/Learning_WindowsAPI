@@ -137,6 +137,9 @@
     <ClCompile Include="_2_1_First.cpp" />
     <ClCompile Include="_2_3_Transformationcpp.cpp" />
     <ClCompile Include="_3_1_TextOut.cpp" />
+    <ClCompile Include="_3_2_TextOut_strlen_wsprintf_DrawText.cpp" />
+    <ClCompile Include="_3_3_2_MessageBox.cpp" />
+    <ClCompile Include="_3_3_DrawLines.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="_2_1_First.rc" />
