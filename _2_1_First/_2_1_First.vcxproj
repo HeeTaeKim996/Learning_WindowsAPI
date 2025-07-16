@@ -145,13 +145,19 @@
     <ClCompile Include="_4_3_2_TwoTimer.cpp" />
     <ClCompile Include="_4_3_1_Timer.cpp" />
     <ClCompile Include="_4_3_3_RandGrp.cpp" />
+    <ClCompile Include="_4_3_4_CALLBACK.cpp" />
+    <ClCompile Include="_4_3_5_OnceTimer.cpp" />
+    <ClCompile Include="_4_4_WM_SIZE.cpp" />
+    <ClCompile Include="_5_2_Menu_Cursor_Icon.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="_2_1_First.rc" />
+    <ResourceCompile Include="_5_2_Menu_Cursor_Icon.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="small.ico" />
-    <Image Include="_2_1_First.ico" />
+    <Image Include="_5_2_HarryIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="_5_2_2SmilingCursor.cur" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

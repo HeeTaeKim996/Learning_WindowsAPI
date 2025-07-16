@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="리소스 파일\_5_2">
+      <UniqueIdentifier>{bbc85480-a732-47b7-a477-e5ec3a3315e3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -62,18 +65,32 @@
     <ClCompile Include="_4_3_3_RandGrp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_4_3_4_CALLBACK.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_3_5_OnceTimer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_4_WM_SIZE.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_5_2_Menu_Cursor_Icon.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="_2_1_First.rc">
-      <Filter>리소스 파일</Filter>
+    <ResourceCompile Include="_5_2_Menu_Cursor_Icon.rc">
+      <Filter>리소스 파일\_5_2</Filter>
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="small.ico">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="_2_1_First.ico">
-      <Filter>리소스 파일</Filter>
+    <None Include="_5_2_2SmilingCursor.cur">
+      <Filter>리소스 파일\_5_2</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="_5_2_HarryIcon.ico">
+      <Filter>리소스 파일\_5_2</Filter>
     </Image>
   </ItemGroup>
 </Project>
