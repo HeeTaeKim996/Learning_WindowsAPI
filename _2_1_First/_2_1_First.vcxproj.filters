@@ -16,6 +16,9 @@
     <Filter Include="리소스 파일\_5_2">
       <UniqueIdentifier>{bbc85480-a732-47b7-a477-e5ec3a3315e3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="리소스 파일\_5_3">
+      <UniqueIdentifier>{59dc567f-950b-4135-bf47-ce7bfe4b1832}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -74,7 +77,7 @@
     <ClCompile Include="_4_4_WM_SIZE.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_5_2_Menu_Cursor_Icon.cpp">
+    <ClCompile Include="_5_2_Menu_Cursor_Icon_Accelerator_StringTable.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -148,7 +148,7 @@
     <ClCompile Include="_4_3_4_CALLBACK.cpp" />
     <ClCompile Include="_4_3_5_OnceTimer.cpp" />
     <ClCompile Include="_4_4_WM_SIZE.cpp" />
-    <ClCompile Include="_5_2_Menu_Cursor_Icon.cpp" />
+    <ClCompile Include="_5_2_Menu_Cursor_Icon_Accelerator_StringTable.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="_5_2_Menu_Cursor_Icon.rc" />

@@ -40,31 +40,31 @@ END
 
 IDR_MENU1 MENU
 BEGIN
-    POPUP "File"
+    POPUP "&File"
     BEGIN
-        MENUITEM "Menu2",                       ID_FILE_MENU2
-        MENUITEM "Exit",                        ID_FILE_EXIT
+        MENUITEM "Menu&2\tCtrl+A",              ID_FILE_MENU2
+        MENUITEM "&Exit\tCtrl+B",               ID_FILE_EXIT
     END
-    POPUP "View"
+    POPUP "&View"
     BEGIN
-        MENUITEM "Love",                        ID_VIEW_LOVE
-        MENUITEM "Harry",                       ID_VIEW_HARRY
+        MENUITEM "&Love",                       ID_VIEW_LOVE
+        MENUITEM "Ha&rry",                      ID_VIEW_HARRY
     END
 END
 
 IDR_MENU2 MENU
 BEGIN
-    POPUP "Harry"
+    POPUP "&Harry"
     BEGIN
-        MENUITEM "Love",                        ID_HARRY_LOVE
+        MENUITEM "&Love\tCtrl+L",               ID_HARRY_LOVE
     END
-    POPUP "Bori"
+    POPUP "&Bori"
     BEGIN
-        MENUITEM "Food",                        ID_BORI_FOOD
+        MENUITEM "&Food\tCtrl+F",               ID_BORI_FOOD
     END
-    POPUP "Settings"
+    POPUP "&Settings"
     BEGIN
-        MENUITEM "Exit",                        ID_SETTINGS_EXIT
+        MENUITEM "E&xit\tCtrl+X",               ID_SETTINGS_EXIT
     END
 END
 
@@ -85,6 +85,36 @@ IDI_ICON1               ICON                    "_5_2_HarryIcon.ico"
 //
 
 IDC_CURSOR1             CURSOR                  "_5_2_2SmilingCursor.cur"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_ACCELERATOR1 ACCELERATORS
+BEGIN
+    "A",            ID_FILE_MENU2,          VIRTKEY, CONTROL, NOINVERT
+    "B",            ID_FILE_EXIT,           VIRTKEY, CONTROL, NOINVERT
+END
+
+IDR_ACCELERATOR2 ACCELERATORS
+BEGIN
+    "X",            ID_SETTINGS_EXIT,       VIRTKEY, CONTROL, NOINVERT
+    "F",            ID_BORI_FOOD,           VIRTKEY, CONTROL, NOINVERT
+    "L",            ID_HARRY_LOVE,          VIRTKEY, CONTROL, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDR_STRING101           "HelloWorld! ImFromStringTable"
+END
 
 #endif    // 한국어(대한민국) resources
 /////////////////////////////////////////////////////////////////////////////
