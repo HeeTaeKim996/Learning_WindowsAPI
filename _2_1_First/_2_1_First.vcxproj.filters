@@ -13,12 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="리소스 파일\_5_2">
-      <UniqueIdentifier>{bbc85480-a732-47b7-a477-e5ec3a3315e3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="리소스 파일\_5_3">
-      <UniqueIdentifier>{59dc567f-950b-4135-bf47-ce7bfe4b1832}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -80,20 +74,36 @@
     <ClCompile Include="_5_2_Menu_Cursor_Icon_Accelerator_StringTable.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_6_1_1_GdiObject.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_6_1_2_DrawMode.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_6_3_1_BitMap.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="_5_2_Menu_Cursor_Icon.rc">
-      <Filter>리소스 파일\_5_2</Filter>
-    </ResourceCompile>
-  </ItemGroup>
-  <ItemGroup>
+    <None Include="Sample_1.txt" />
     <None Include="_5_2_2SmilingCursor.cur">
-      <Filter>리소스 파일\_5_2</Filter>
+      <Filter>리소스 파일</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Text Include="Sample_2.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <Image Include="_5_2_HarryIcon.ico">
-      <Filter>리소스 파일\_5_2</Filter>
+      <Filter>리소스 파일</Filter>
     </Image>
+    <Image Include="..\OtherFiles\BMPPicture.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="_5_2_Menu_Cursor_Icon.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>

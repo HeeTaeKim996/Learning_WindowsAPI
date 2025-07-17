@@ -149,15 +149,23 @@
     <ClCompile Include="_4_3_5_OnceTimer.cpp" />
     <ClCompile Include="_4_4_WM_SIZE.cpp" />
     <ClCompile Include="_5_2_Menu_Cursor_Icon_Accelerator_StringTable.cpp" />
+    <ClCompile Include="_6_1_1_GdiObject.cpp" />
+    <ClCompile Include="_6_1_2_DrawMode.cpp" />
+    <ClCompile Include="_6_3_1_BitMap.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="_5_2_Menu_Cursor_Icon.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\OtherFiles\BMPPicture.bmp" />
     <Image Include="_5_2_HarryIcon.ico" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Sample_1.txt" />
     <None Include="_5_2_2SmilingCursor.cur" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Sample_2.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
