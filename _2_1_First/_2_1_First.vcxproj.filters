@@ -80,7 +80,10 @@
     <ClCompile Include="_6_1_2_DrawMode.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_6_3_1_BitMap.cpp">
+    <ClCompile Include="_6_3_BitMap.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_6_4_Font.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -151,7 +151,8 @@
     <ClCompile Include="_5_2_Menu_Cursor_Icon_Accelerator_StringTable.cpp" />
     <ClCompile Include="_6_1_1_GdiObject.cpp" />
     <ClCompile Include="_6_1_2_DrawMode.cpp" />
-    <ClCompile Include="_6_3_1_BitMap.cpp" />
+    <ClCompile Include="_6_3_BitMap.cpp" />
+    <ClCompile Include="_6_4_Font.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="_5_2_Menu_Cursor_Icon.rc" />
