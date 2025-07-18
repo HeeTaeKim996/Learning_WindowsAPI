@@ -86,7 +86,13 @@
     <ClCompile Include="_6_4_Font.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="_7_1_1_Button_CheckButton.cpp">
+    <ClCompile Include="_7_1_Button_CheckButton.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_7_2_RadioButton.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_7_3_Edit.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

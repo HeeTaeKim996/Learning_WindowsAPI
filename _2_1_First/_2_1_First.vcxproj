@@ -153,7 +153,9 @@
     <ClCompile Include="_6_1_2_DrawMode.cpp" />
     <ClCompile Include="_6_3_BitMap.cpp" />
     <ClCompile Include="_6_4_Font.cpp" />
-    <ClCompile Include="_7_1_1_Button_CheckButton.cpp" />
+    <ClCompile Include="_7_1_Button_CheckButton.cpp" />
+    <ClCompile Include="_7_2_RadioButton.cpp" />
+    <ClCompile Include="_7_3_Edit.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="_5_2_Menu_Cursor_Icon.rc" />
