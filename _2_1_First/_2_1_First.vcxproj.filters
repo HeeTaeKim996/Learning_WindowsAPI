@@ -95,6 +95,9 @@
     <ClCompile Include="_7_3_Edit.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_7_4_ListBox_ComboBox.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Sample_1.txt" />
