@@ -157,6 +157,7 @@
     <ClCompile Include="_7_2_RadioButton.cpp" />
     <ClCompile Include="_7_3_Edit.cpp" />
     <ClCompile Include="_7_4_ListBox_ComboBox.cpp" />
+    <ClCompile Include="_7_5_ScrollBar.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="_5_2_Menu_Cursor_Icon.rc" />
