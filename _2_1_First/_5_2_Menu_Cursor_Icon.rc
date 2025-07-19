@@ -1,11 +1,12 @@
 // Microsoft Visual C++ generated resource script.
 //
+#include <Windows.h>
 #include "resource.h"
 /////////////////////////////////////////////////////////////////////////////
 // 한국어(대한민국) resources
 
 #if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
-LANGUAGE 18, 1
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
 #pragma code_page(949)
 
 #ifdef APSTUDIO_INVOKED
@@ -112,6 +113,67 @@ END
 //
 
 IDB_BITMAP1             BITMAP                  "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\OtherFiles\\BMPPicture.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_DIALOG4, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 303
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 169
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_DIALOG1 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_DIALOG2 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_DIALOG3 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_DIALOG4 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG4 DIALOGEX 0, 0, 310, 176
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "확인",IDOK,199,155,50,14
+    PUSHBUTTON      "취소",IDCANCEL,253,155,50,14
+    LTEXT           "_8_1_About 예제다!",IDC_STATIC,101,77,120,16
+END
 
 
 /////////////////////////////////////////////////////////////////////////////
